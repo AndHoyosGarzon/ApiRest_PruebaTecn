@@ -2,7 +2,7 @@
 
 [**Diagrama de uso disponible en AQUI**](https://excalidraw.com/#json=bsCgTC6rP63C_tdoOz5iy,wOYnpSRhsc1icWlm-GV3wg)
 
-Esta Api fue desarrollada con NodeJs & ExpressJs, tiene coneccion directa con MongoDB.
+Esta Api fue desarrollada con NodeJs & ExpressJs, tiene conexión directa con MongoDB.
 
 1- POST = este metodo nos permite crear usuarios en una coleccion de una base de datos MongoDb, para poderlo hacer solicita name, email, password, phones en el siguiente formato JSON:
 
