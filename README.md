@@ -109,7 +109,7 @@ Esta Api fue desarrollada con NodeJs & ExpressJs, tiene conexión directa con Mo
 La Api esta disponible en un servidor de **render.com**
 
                   
-##USO EN MODO LOCAL
+## USO EN MODO LOCAL
 
 Clone el repositorio dentro de la carpeta de proyecto, abra una terminal y ejecute npm install para instalar todas las dependencias.
 
