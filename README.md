@@ -1,6 +1,6 @@
 # ApiRest Users
 
-[**Diagrama de uso disponible en =>**](https://excalidraw.com/#json=bsCgTC6rP63C_tdoOz5iy,wOYnpSRhsc1icWlm-GV3wg)
+[**Diagrama de uso disponible en AQUI**](https://excalidraw.com/#json=bsCgTC6rP63C_tdoOz5iy,wOYnpSRhsc1icWlm-GV3wg)
 
 Esta Api fue desarrollada con NodeJs & ExpressJs, tiene coneccion directa con MongoDB.
 
