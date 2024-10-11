@@ -101,10 +101,10 @@ Esta Api fue desarrollada con NodeJs & ExpressJs, tiene conexión directa con Mo
 
 **Endpoints**
 
--POST= https://apirest-pruebatecn.onrender.com/api/user
--GET= https://apirest-pruebatecn.onrender.com/api/user/id
--PUT= https://apirest-pruebatecn.onrender.com/api/user/id
--DELETE= https://apirest-pruebatecn.onrender.com/api/user/id
+ *POST= https://apirest-pruebatecn.onrender.com/api/user
+ *GET= https://apirest-pruebatecn.onrender.com/api/user/id
+ *PUT= https://apirest-pruebatecn.onrender.com/api/user/id
+ *DELETE= https://apirest-pruebatecn.onrender.com/api/user/id
 
 La Api esta disponible en un servidor de **render.com**
 
