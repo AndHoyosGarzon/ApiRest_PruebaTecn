@@ -101,14 +101,15 @@ Esta Api fue desarrollada con NodeJs & ExpressJs, tiene conexión directa con Mo
 
 **Endpoints**
 
-POST= https://apirest-pruebatecn.onrender.com/api/user
-GET= https://apirest-pruebatecn.onrender.com/api/user/id
-PUT= https://apirest-pruebatecn.onrender.com/api/user/id
-DELETE= https://apirest-pruebatecn.onrender.com/api/user/id
+-POST= https://apirest-pruebatecn.onrender.com/api/user
+-GET= https://apirest-pruebatecn.onrender.com/api/user/id
+-PUT= https://apirest-pruebatecn.onrender.com/api/user/id
+-DELETE= https://apirest-pruebatecn.onrender.com/api/user/id
 
 La Api esta disponible en un servidor de **render.com**
 
--                   **Modo local**
+                  
+##USO EN MODO LOCAL
 
 Clone el repositorio dentro de la carpeta de proyecto, abra una terminal y ejecute npm install para instalar todas las dependencias.
 
