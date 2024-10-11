@@ -31,27 +31,27 @@ Esta Api fue desarrollada con NodeJs & ExpressJs, tiene conexión directa con Mo
 
 2- GET = Este método recibe un ID por parámetro y retorna los datos menos sensibles del usuario siempre y cuando exista la base de datos.
 
-fetch("api/user/id", {
-method: 'GET',
-headers: {
-"Content-Type" : "application/json",
-'Authorization': 'Bearer <tu_token_aqui>'
-}})
-
-retorna{
-"id": "67090cbc06ee3ba6fd68472c",
-"name": "Jhon doe",
-"phones": [
-{
-"number": "59955123",
-"citycode": "9",
-"countrycode": "59"
-}
-],
-"isActive": true,
-"newToken": token
-}
-
+            fetch("api/user/id", {
+            method: 'GET',
+            headers: {
+            "Content-Type" : "application/json",
+            'Authorization': 'Bearer <tu_token_aqui>'
+            }})
+            
+            retorna{
+            "id": "67090cbc06ee3ba6fd68472c",
+            "name": "Jhon doe",
+            "phones": [
+            {
+            "number": "59955123",
+            "citycode": "9",
+            "countrycode": "59"
+            }
+            ],
+            "isActive": true,
+            "newToken": token
+            }
+            
 3- PUT = Este método recibe un ID por parámetro y diferentes datos en el cuerpo de la solicitud, primero válida que el usuario exista en la base de datos y procede a actualizar el usuario.
 
     fetch("api/user/id", {
